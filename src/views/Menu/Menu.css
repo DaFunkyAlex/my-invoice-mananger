@@ -1,0 +1,11 @@
+.Menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0 7px;
+    border-top: 1px solid #aaa;
+    background: #eee;
+    box-shadow: 0 0 10px rgb(0 0 0 / 50%);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
